@@ -21,7 +21,13 @@ https://nodejs.org/en
 
 
 
+### Download the Technical Exam project
 
+1.Go to this link to see the technical exam project : https://github.com/Ednisson/TechnicalExam
+
+2.There is a "<> Code" button dropdown right there; click the button dropdown, and the dropdown will expand. Go to the Local section, and in the Local section, go to the HTTPS section and then click the "Download ZIP" button. 
+
+3.After downloading, you can extract the zip, and you will see the "TechnicalExam-main/TechnicalExam-main" folder already.
 
 
 
@@ -50,21 +56,6 @@ To import the MongoDB Compass connection settings from the `techExam-compass-con
 
 
 This will allow you to quickly connect to the MongoDB server using the predefined connection settings.
-
-
-
-
-
-
-
-
-## Download the Technical Exam project
-
-1.Go to this link to see the technical exam project : https://github.com/Ednisson/TechnicalExam
-
-2.There is a "<> Code" button dropdown right there; click the button dropdown, and the dropdown will expand. Go to the Local section, and in the Local section, go to the HTTPS section and then click the "Download ZIP" button. 
-
-3.After downloading, you can extract the zip, and you will see the "TechnicalExam-main/TechnicalExam-main" folder already.
 
 
 
