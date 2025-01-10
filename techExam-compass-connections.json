@@ -1,0 +1,24 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "bc4bed80-8a36-4e9e-a5cd-3f55a98a3c94",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1736364157114"
+        }
+      },
+      "favorite": {
+        "name": "technicalexam"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
