@@ -42,17 +42,21 @@ To import the MongoDB Compass connection settings from the `techExam-compass-con
 
 2.After downloading, you can run the installation.
 
-3.Open MongoDB Compass.
+3.After running the installation, you need to find which folder you saved the MongoDB in; it is usually saved in C:/Program Files. Now go to the path MongoDB/Server/8.0/bin. You can copy the whole path in the upper center; it should be like this: "C:\Program Files\MongoDB\Server\8.0\bin."
 
-4.Click on the **Connections** tab on the left sidebar.
+4.Type the window search "environment," and it should be a result of "Edit the system environment variables." Click that, and click the Environment Variables button. As you can see, another modal popup with a title of "Environment Variables" appears. Click the Path in the System variables section, and click the button New to add the path "C:\Program Files\MongoDB\Server\8.0\bin," and click the "OK" button for all modals shown.
 
-5.Click on the **Import** button at the top right corner of the Connections tab.
+5.Open MongoDB Compass.
 
-6.In the file dialog, navigate to the  "TechnicalExam-main/TechnicalExam-main" project and select the `techExam-compass-connections.json` file.
+6.Click on the **Connections** tab on the left sidebar.
 
-7.Click **Open** to import the connection settings.
+7.Click on the **Import** button at the top right corner of the Connections tab.
 
-8.The imported connection named "technicalexam" should now appear in your list of connections. Click on it to connect to the MongoDB server.
+8.In the file dialog, navigate to the  "TechnicalExam-main/TechnicalExam-main" project and select the `techExam-compass-connections.json` file.
+
+9.Click **Open** to import the connection settings.
+
+10.The imported connection named "technicalexam" should now appear in your list of connections. Click on it to connect to the MongoDB server.
 
 
 This will allow you to quickly connect to the MongoDB server using the predefined connection settings.
