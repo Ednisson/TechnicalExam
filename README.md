@@ -48,7 +48,7 @@ To import the MongoDB Compass connection settings from the `techExam-compass-con
 
 5.Click on the **Import** button at the top right corner of the Connections tab.
 
-6.In the file dialog, navigate to the root directory of this project and select the `techExam-compass-connections.json` file.
+6.In the file dialog, navigate to the  "TechnicalExam-main/TechnicalExam-main" project and select the `techExam-compass-connections.json` file.
 
 7.Click **Open** to import the connection settings.
 
