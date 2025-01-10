@@ -36,7 +36,7 @@ https://nodejs.org/en
 
 ### Importing MongoDB Compass Connection
 
-To import the MongoDB Compass connection settings from the `techExam-compass-connections.json` file, follow these steps:
+To import the MongoDB Compass connection settings from the `techExam-compass-connections.json` file located at "TechnicalExam-main/TechnicalExam-main" folder, follow these steps:
 
 1.If you don't have MongoDB Compass in your machine, you can download it from this link: https://www.mongodb.com/try/download/community
 
