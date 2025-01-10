@@ -44,7 +44,7 @@ To import the MongoDB Compass connection settings from the `techExam-compass-con
 
 3.After running the installation, you need to find which folder you saved the MongoDB in; it is usually saved in C:/Program Files. Now go to the path MongoDB/Server/8.0/bin. You can copy the whole path in the upper center; it should be like this: "C:\Program Files\MongoDB\Server\8.0\bin."
 
-4.Type the window search "environment," and it should be a result of "Edit the system environment variables." Click that, and click the Environment Variables button. As you can see, another modal popup with a title of "Environment Variables" appears. Click the Path in the System variables section, and click the button New to add the path "C:\Program Files\MongoDB\Server\8.0\bin," and click the "OK" button for all modals shown.
+4.Type in the window search  "environment," and it should be a result of "Edit the system environment variables." Click that, and click the Environment Variables button. As you can see, another modal popup with a title of "Environment Variables" appears. Click the Path in the System variables section, and click the button New to add the path "C:\Program Files\MongoDB\Server\8.0\bin," and click the "OK" button for all modals shown.
 
 5.Open MongoDB Compass.
 
